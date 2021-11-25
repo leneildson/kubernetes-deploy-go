@@ -51,7 +51,7 @@ metadata:
     allow.http: "false"
 spec:
   rules:
-  - host: go.rancher.nascimentodevops.com
+  - host: go.rancher.nascimento-devops.com
     http:
       paths:
         - path: /
